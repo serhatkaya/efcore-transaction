@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efcore-transaction", "efcore-transaction\efcore-transaction.csproj", "{69EDF3DD-BBA4-40E7-A057-E03B6AD56F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EDF3DD-BBA4-40E7-A057-E03B6AD56F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EDF3DD-BBA4-40E7-A057-E03B6AD56F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EDF3DD-BBA4-40E7-A057-E03B6AD56F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EDF3DD-BBA4-40E7-A057-E03B6AD56F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE06A11-D368-4FB3-A743-2F65A1AD4D13}
+	EndGlobalSection
+EndGlobal
